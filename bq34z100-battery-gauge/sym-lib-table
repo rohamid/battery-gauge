@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BQ34Z100PWR-G1")(type "Legacy")(uri "${KIPRJMOD}/lib/BQ34Z100PWR-G1/BQ34Z100PWR-G1.lib")(options "")(descr ""))
+)
